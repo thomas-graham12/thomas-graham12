@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thomas-graham12
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C++ and python
+- 🌱 I’m currently learning C# and Unity Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Discord: Tbone#6118
 
