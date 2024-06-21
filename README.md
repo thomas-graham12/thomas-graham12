@@ -1,5 +1,5 @@
 Hey, I'm Thomas.
-I'm learning website development, specifically with HTML, CSS and JS for now.
+I'm learning C++ to hopefully succeed in getting into the games industry :)
 Continually getting better (hopefully)!
 Check out how I'm doing!
 Contact me on discord :) -> tbone6118
